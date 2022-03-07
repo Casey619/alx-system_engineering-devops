@@ -10,3 +10,9 @@ a shell script that creates a file named exactly containing the text Best School
 9-duplicate_last_line is a script that duplicates the last line of the file iacta
 10-no_more_js is a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 11-directories is a script that counts the number of directories and sub-directories in the current directory
+12-newest_files is a script that displays the 10 newest files in the current directory
+13-unique is a script that takes a list of words as input and prints only words that appear exactly once
+14-findthatword is a script that Display lines containing the pattern “root” from the file /etc/passwd
+15-countthatword is a script that Display the number of lines that contain the pattern bin in the file /etc/passwd
+whatsnext is a script that Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+17-hidethisword is a script that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
