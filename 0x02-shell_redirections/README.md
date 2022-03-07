@@ -16,3 +16,8 @@ a shell script that creates a file named exactly containing the text Best School
 15-countthatword is a script that Display the number of lines that contain the pattern bin in the file /etc/passwd
 whatsnext is a script that Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 17-hidethisword is a script that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+18-letteronly is a script that Display all lines of the file /etc/ssh/sshd_config starting with a letter
+19-AZ is a script that Replace all characters A and c from input to Z and e respectively
+20-hiago is a script that Create a script that removes all letters c and C from input
+21-reverse is a script that reverse its input
+22-users_and_homes is a a script that displays all users and their home directories, sorted by users
